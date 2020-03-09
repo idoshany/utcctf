@@ -1,0 +1,3 @@
+I opened cutter, but it was an overkill,
+Use strings and then the flag is right there -
+utflag{str1ngs_1s_y0ur_fr13nd}
